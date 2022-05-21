@@ -2,3 +2,5 @@ hmdb51/
 UCF-101/
 UCF50/
 *.h5
+*.pdf
+*.pptx
